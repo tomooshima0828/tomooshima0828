@@ -1,9 +1,16 @@
-## Hi there 👋
+## Hi there! 👋 Thanks for visiting my GitHub profile!
 
-<h3 align="left">🛠 Skill stacks 技術スタック</h3>
+### 🚀 Portfolio / ポートフォリオ
+#### 🌐 Live Site on Vercel
+🔗 [portfolio-next-rails-ecsite.vercel.app](https://portfolio-next-rails-ecsite.vercel.app)
+
+#### 💻 Source on GitHub
+🔗 [tomooshima0828/portfolio-next-rails-ecsite](https://github.com/tomooshima0828/portfolio-next-rails-ecsite)
+
+### 🛠 Skill Stacks / 技術スタック
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,js,jquery,ts,react,nextjs,redux,vue,vuetify,vite,postgres,mysql,aws,docker,git,githubactions,html,css,bootstrap,tailwind,bash,linux,ubuntu,vim,md,npm,yarn,webpack,php,supabase,wordpress,apple,windows" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,react,nextjs,redux,vue,vuetify,postgres,mysql,aws,docker,git,githubactions,html,css,tailwind,bootstrap,linux,ubuntu,vim,md,npm,yarn,webpack,jquery,vercel,supabase,wordpress,apple,windows" />
   </a>
 </p>
 
