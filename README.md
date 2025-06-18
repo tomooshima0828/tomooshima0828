@@ -3,7 +3,7 @@
 <h3 align="left">🛠 Skill stacks 技術スタック</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,redis,aws,docker,githubactions,git,html,css,js,ts,react,nextjs,vue,nodejs,figma" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,mysql,aws,docker,githubactions,git,html,css,js,ts,react,nextjs,vue" />
   </a>
 </p>
 
