@@ -1,11 +1,12 @@
 ## Hi there! 👋 Thanks for visiting my GitHub profile!
 
 ### 🚀 Portfolio / ポートフォリオ
-#### 🌐 Live Site on Vercel
-🔗 [portfolio-next-rails-ecsite.vercel.app](https://portfolio-next-rails-ecsite.vercel.app)
 
 #### 💻 Source on GitHub
 🔗 [tomooshima0828/portfolio-next-rails-ecsite](https://github.com/tomooshima0828/portfolio-next-rails-ecsite)
+
+#### 🌐 Live Site on Vercel
+🔗 [portfolio-next-rails-ecsite.vercel.app](https://portfolio-next-rails-ecsite.vercel.app)
 
 ### 🛠 Skill Stacks / 技術スタック
 <p align="left">
