@@ -1,11 +1,11 @@
 ## Hi there! 👋 Thanks for visiting my GitHub profile!
 
-### 🚀 Portfolio / ポートフォリオ
+### 🚀 Portfolio/ポートフォリオ: 　Next.js(React) + Rails 　E-Commerce App/ECサイト
 
-#### 💻 Source on GitHub
+#### 💻 Source on GitHub/ソースコード
 🔗 [tomooshima0828/portfolio-next-rails-ecsite](https://github.com/tomooshima0828/portfolio-next-rails-ecsite)
 
-#### 🌐 Live Site on Vercel
+#### 🌐 Live Site　(Prod) on Vercel/公開アプリ(本番環境)
 🔗 [portfolio-next-rails-ecsite.vercel.app](https://portfolio-next-rails-ecsite.vercel.app)
 
 ### 🛠 Skill Stacks / 技術スタック
