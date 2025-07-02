@@ -1,15 +1,16 @@
-## Hi there! 👋
-Thank you for visiting my GitHub profile!
+## Greetings! 👋
+Thank you for visiting my GitHub profile page!<br>
 Please visit my portfolio app live site and check the source code below.
 
 ### 🚀 My Portfolio/ポートフォリオ:
 Next.js(React) + Rails E-Commerce App/ECサイト
 
-#### 💻 Source code on GitHub/ソースコード
-🔗 [tomooshima0828/portfolio-next-rails-ecsite](https://github.com/tomooshima0828/portfolio-next-rails-ecsite)
-
 #### 🌐 Live Site　(Prod) on Vercel/公開アプリ(本番環境)
 🔗 [portfolio-next-rails-ecsite.vercel.app](https://portfolio-next-rails-ecsite.vercel.app)
+
+#### 💻 Source code on GitHub/ソースコード
+Please check README.md for more details.<br>
+🔗 [tomooshima0828/portfolio-next-rails-ecsite](https://github.com/tomooshima0828/portfolio-next-rails-ecsite)
 
 ### 🛠 Skill Stacks/技術スタック
 <p align="left">
