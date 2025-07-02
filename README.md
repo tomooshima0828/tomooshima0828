@@ -14,7 +14,7 @@ For more details, please see the README.md file.<br>
 
 #### 🌐 Live Site (Production) on Vercel / 公開アプリ（本番環境）
 Please check out the live application below as well.<br>
-以下の公開アプリも併せてご参照ください。
+以下の公開アプリも併せてご参照ください。<br>
 🔗 [portfolio-next-rails-ecsite.vercel.app](https://portfolio-next-rails-ecsite.vercel.app)
 
 ### 🛠 Skill Stacks/技術スタック
