@@ -2,14 +2,19 @@
 Thank you for visiting my GitHub profile page!
 
 ### 🚀 My Portfolio / ポートフォリオ
-Next.js (React) + Rails E-Commerce App / ECサイト
+**Full-Stack E-Commerce Application**<br>
+Next.js (React) + Ruby on Rails API with Stripe Payment Integration<br>
+フルスタックECサイト<br>
+Next.js (React) + Rails API + Stripe決済機能<br>
 
 #### 💻 Source Code on GitHub / ソースコード
-For more details, please see the README.md file.  
+For more details, please see the README.md file.<br>
+詳細はREADME.mdをご参照ください。<br>
 🔗 [tomooshima0828/portfolio-next-rails-ecsite](https://github.com/tomooshima0828/portfolio-next-rails-ecsite)
 
 #### 🌐 Live Site (Production) on Vercel / 公開アプリ（本番環境）
-Please check out the live application below.  
+Please check out the live application below as well.<br>
+以下の公開アプリも併せてご参照ください。
 🔗 [portfolio-next-rails-ecsite.vercel.app](https://portfolio-next-rails-ecsite.vercel.app)
 
 ### 🛠 Skill Stacks/技術スタック
