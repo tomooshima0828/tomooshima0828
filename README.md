@@ -3,9 +3,9 @@ Thank you for visiting my GitHub profile page!
 
 ### 🚀 My Portfolio / ポートフォリオ
 **Full-Stack E-Commerce Application**<br>
-Next.js (React) + Ruby on Rails API with Stripe Payment Integration<br>
+Next.js (React) + Ruby on Rails API + Stripe Payment Integration<br>
 フルスタックECサイト<br>
-Next.js (React) + Rails API + Stripe決済機能<br>
+Next.js (React) + Ruby on Rails API + Stripe決済機能<br>
 
 #### 💻 Source Code on GitHub / ソースコード
 For more details, please see the README.md file.<br>
