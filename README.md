@@ -1,11 +1,16 @@
-## Greetings! 👋
+## 👋 Greetings!
 Thank you for visiting my GitHub profile page!<br>
 こちらのプロフィールページをご覧くださってありがとうございます!
+
+## 🔭 Career Summary
+With a strong foundation in robust backend development using Ruby on Rails, I am also capable of handling frontend development with JavaScript, Vue.js, and React. I strive to enhance overall team productivity through assertive communication and thoughtful code reviews, aiming to be an engineer who contributes to the growth of the business.<br>
+
+Ruby on Railsによる堅牢なバックエンド開発を軸に、Vue.jsやReactを用いたフロントエンド開発まで一貫して対応可能です。チーム全体の生産性向上を常に意識し、アサーティブなコミュニケーションと丁寧なコードレビューを通じて、事業の成長に貢献できるエンジニアでありたいと考えています。
 
 ### 🚀 My Portfolio / ポートフォリオ
 **Full-Stack E-Commerce Application**<br>
 フルスタックECサイト<br>
-Next.js (React) + Ruby on Rails API + Stripe Payment Integration<br>
+Frontend: Next.js (React) Ruby on Rails API + Stripe Payment Integration<br>
 Next.js (React) + Ruby on Rails API + Stripe決済機能
 
 #### 💻 Source Code on GitHub / ソースコード
