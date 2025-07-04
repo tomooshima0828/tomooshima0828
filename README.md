@@ -20,7 +20,7 @@ Please check out the live application below as well.<br>
 ### 🛠 Skill Stacks/技術スタック
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,react,nextjs,redux,vue,vuetify,postgres,mysql,aws,docker,git,githubactions,html,css,tailwind,bootstrap,linux,ubuntu,vim,md,npm,yarn,webpack,jquery,vercel,supabase,wordpress,apple,windows" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,react,nextjs,redux,vue,vuetify,postgres,mysql,aws,docker,git,githubactions,html,css,tailwind,bootstrap,linux,ubuntu,vim,md,npm,yarn,webpack,jquery,vercel,supabase,wordpress,php,laravel,apple,windows" />
   </a>
 </p>
 
