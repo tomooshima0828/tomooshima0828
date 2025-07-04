@@ -6,13 +6,6 @@ With a strong foundation in robust backend development using Ruby on Rails, I am
 
 Ruby on Railsによる堅牢なバックエンド開発を軸に、Vue.jsやReactを用いたフロントエンド開発まで一貫して対応可能です。詳細設計や、RSpecを用いたテストコードの記述にも対応しています。チーム全体の生産性向上を常に意識し、アサーティブなコミュニケーションと丁寧なコードレビューを通じて、事業の成長に貢献できるエンジニアでありたいと考えています。
 
-## 🛠 Skill Stacks 技術スタック
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,react,nextjs,redux,vue,vuetify,postgres,mysql,aws,docker,git,githubactions,html,css,tailwind,bootstrap,linux,ubuntu,vim,md,npm,yarn,webpack,jquery,vercel,supabase,wordpress,php,laravel,apple,windows" />
-  </a>
-</p>
-
 ## 🚀 My Portfolio ポートフォリオ
 **Full-Stack E-Commerce Application フルスタックECサイト**<br>
 Next.js/React + Ruby on Rails (API) + Stripe (Payment)
@@ -25,7 +18,12 @@ For more details, please see the README.md file. 詳細はREADME.mdをご参照�
 🔗 [portfolio-next-rails-ecsite.vercel.app](https://portfolio-next-rails-ecsite.vercel.app)<br>
 Please check out the live application above as well. こちらの公開アプリも併せてご参照ください。
 
-
+## 🛠 Skill Stacks 技術スタック
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,react,nextjs,redux,vue,vuetify,postgres,mysql,aws,docker,git,githubactions,html,css,tailwind,bootstrap,linux,ubuntu,vim,md,npm,yarn,webpack,jquery,vercel,supabase,wordpress,php,laravel,apple,windows" />
+  </a>
+</p>
 
 <!--
 **tomooshima0828/tomooshima0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
