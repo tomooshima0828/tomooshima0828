@@ -1,11 +1,12 @@
 ## Greetings! 👋
-Thank you for visiting my GitHub profile page!
+Thank you for visiting my GitHub profile page!<br>
+こちらのプロフィールページをご覧くださってありがとうございます!
 
 ### 🚀 My Portfolio / ポートフォリオ
 **Full-Stack E-Commerce Application**<br>
-Next.js (React) + Ruby on Rails API + Stripe Payment Integration<br>
 フルスタックECサイト<br>
-Next.js (React) + Ruby on Rails API + Stripe決済機能<br>
+Next.js (React) + Ruby on Rails API + Stripe Payment Integration<br>
+Next.js (React) + Ruby on Rails API + Stripe決済機能
 
 #### 💻 Source Code on GitHub / ソースコード
 For more details, please see the README.md file.<br>
