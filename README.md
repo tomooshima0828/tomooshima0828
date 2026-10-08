@@ -1,5 +1,6 @@
 ## 👋 Greetings!
-Thank you for visiting my GitHub profile page! プロフィールページをご覧いただきありがとうございます!
+Thank you for visiting my GitHub profile page!<br>
+プロフィールページをご覧いただきありがとうございます!
 
 ## 🔭 Career Summary 経歴概要
 With a strong foundation in robust backend development using Ruby on Rails, I am also capable of handling frontend development with Vue.js and React. I have experience in creating detailed design documents and writing test code using RSpec. I strive to enhance overall team productivity through assertive communication and thoughtful code reviews, aiming to be an engineer who contributes to the growth of the business.<br>
